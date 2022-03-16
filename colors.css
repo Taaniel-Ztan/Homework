@@ -1,0 +1,61 @@
+#hdr {text-align: center; font-size: 60px; color: white ; text-shadow: -3px 3px 4px black}
+
+
+#box {position: absolute; z-index: 1; top: 20%; left: 3%;color: white; right: 80% }
+#box1 {position: absolute; z-index: 1; top: 50%; left: 3%;color: white; right: 80% }
+
+#box2 {position: absolute; z-index: 1; top: 20%; left: 73%;color: white; right: 8% }
+#box3 {position: absolute; z-index: 1; top: 50%; left: 73%;color: white; right: 8% }
+
+
+#csc  { top: 15%; position: absolute;margin : 2em ; height : 700px ; width : 400px ; opacity : .7 ; border-radius: 40px ;   background:rgb(0, 0, 0)}
+#csc1  { top: 15%;left: 70%; position: absolute;margin : 2em ; height : 700px ; width : 400px ; opacity : .7 ; border-radius: 40px ;   background:rgb(0, 0, 0)}
+
+
+    
+
+
+
+dl#menu { position : absolute ; top : 167px ; right: 1100px ; width : 340px}
+
+
+dt.btn { margin-bottom : 13px ; text-align : center }
+
+dt.btn a { display: block   ; color : white ; font-weight : bold ; text-decoration : none}
+
+dt.btn a:link, a:visited { background: rgb(168, 173, 170) ; border : 5px outset grey}
+
+dt.btn a:hover { background : rgb(70, 71, 71) ; border : 5px outset white }
+
+dt.btn a:active { background : green ; border : 5px inset green }
+
+.btn1 {
+
+}
+
+
+dl#menu1 { position : absolute ; top : 167px ; right: 600px ; width : 340px; }
+
+
+dt.btn1 { margin-bottom : 13px ; text-align : center }
+
+dt.btn1 a { display: block   ; color : white ; font-weight : bold ; text-decoration : none}
+
+dt.btn1 a:link, a:visited { background: rgb(168, 173, 170) ; border : 5px outset grey}
+
+dt.btn1 a:hover { background : rgb(70, 71, 71) ; border : 5px outset white  }
+
+dt.btn1 a:active { background : green ; border : 5px inset green }
+
+
+.video {
+position: absolute;
+top: 40%;
+left:25%;
+z-index: 2;
+height: 420px;
+width: 800px;
+border: 20px solid grey;
+border-radius: 6%
+}
+
